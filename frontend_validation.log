@@ -1,0 +1,7 @@
+2024-10-24 17:52:59,453 - INFO - Starting LinkedIn login page validation
+2024-10-24 17:53:11,266 - INFO - Navigated to LinkedIn login page
+2024-10-24 17:53:29,634 - INFO - Username input field aria-label is correct
+2024-10-24 17:53:29,755 - INFO - Password input field validation passed
+2024-10-24 17:53:30,376 - INFO - Sign in button text is correct
+2024-10-24 17:53:32,097 - INFO - 'Forgot password?' link is present
+2024-10-24 17:53:36,780 - INFO - Finished LinkedIn login page validation and saved video
